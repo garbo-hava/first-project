@@ -551,7 +551,7 @@ input{
 
 /* FOOTER */
 .footer .section-center{
-    background: var(--crl-grey-1);
+    background: yellow;
 color: var(--clr-white);
 text-align: center;
 height: 7rem;
